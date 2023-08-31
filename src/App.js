@@ -7,7 +7,7 @@ const Div = styled.div`
 export const App = () => {
 	return (
 		<Div>
-			<i class="fa fa-camera-retro fa-5x" />
+			<i className="fa fa-camera-retro fa-5x" />
 		</Div>
 	);
 };
