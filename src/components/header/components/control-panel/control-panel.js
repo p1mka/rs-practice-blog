@@ -33,7 +33,6 @@ const ControlPanelContainer = ({ className }) => {
 	const roleId = useSelector(selectUserRole);
 	const login = useSelector(selectUserLogin);
 	const session = useSelector(selectUserSession);
-	console.log(roleId);
 
 	return (
 		<div className={className}>
