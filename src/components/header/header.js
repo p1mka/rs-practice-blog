@@ -17,6 +17,7 @@ const HeaderContainter = ({ className }) => (
 export const Header = styled(HeaderContainter)`
 	display: flex;
 	justify-content: space-between;
+	align-items: center;
 	position: fixed;
 	top: 0;
 	width: 1000px;

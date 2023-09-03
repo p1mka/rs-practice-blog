@@ -33,7 +33,7 @@ const FooterContainter = ({ className }) => {
 					})}
 				</div>
 				<div>
-					{temperature} градусов, {weather}
+					{temperature}º, {weather}
 				</div>
 			</div>
 		</div>
