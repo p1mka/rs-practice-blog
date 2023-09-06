@@ -5,42 +5,14 @@
       "login": "Kirill",
       "password": "qwerty123",
       "registered_at": "2023-08-13",
-      "role_id": "0"
-    },
-    {
-      "login": "p1mka",
-      "password": "111111",
-      "registered_at": "2063-02-21 23:55",
-      "role_id": 2,
-      "id": "cI3Ne_s"
-    },
-    {
-      "login": "p1mka1",
-      "password": "123456",
-      "registered_at": "2037-06-05 18:24",
-      "role_id": 2,
-      "id": "3qdNQCJ"
-    },
-    {
-      "login": "asd3",
-      "password": "123456",
-      "registered_at": "2034-08-30 22:42",
-      "role_id": 2,
-      "id": "kwbxOlH"
+      "role_id": 0
     },
     {
       "login": "ivan",
       "password": "123456",
       "registered_at": "2052-09-22 08:13",
       "role_id": 2,
-      "id": "9YDeLZR"
-    },
-    {
-      "login": "p1mka13",
-      "password": "123456",
-      "registered_at": "2040-10-22 10:10",
-      "role_id": 2,
-      "id": "4VQLxau"
+      "id": "9YDe1LZR"
     }
   ],
   "roles": [
