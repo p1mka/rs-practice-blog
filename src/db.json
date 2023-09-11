@@ -126,23 +126,9 @@
     {
       "author_id": "001",
       "post_id": "001",
-      "published_at": "2058-11-17 05:46",
-      "content": "Первый комментарий",
+      "published_at": "2048-08-26 09:16",
+      "content": "12eqwascdfs",
       "id": 1
-    },
-    {
-      "author_id": "001",
-      "post_id": "001",
-      "published_at": "2036-04-21 21:54",
-      "content": "Второй комментарий\n",
-      "id": 2
-    },
-    {
-      "author_id": "001",
-      "post_id": "001",
-      "published_at": "2035-07-06 12:41",
-      "content": "Третий комментарий\n",
-      "id": 3
     }
   ],
   "sessions": [
