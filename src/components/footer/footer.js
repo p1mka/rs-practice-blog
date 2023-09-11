@@ -8,7 +8,7 @@ const FooterContainter = ({ className }) => {
 
 	useEffect(() => {
 		fetch(
-			"https://api.openweathermap.org/data/2.5/weather?q=Moscow&lang=ru&units=metric&appid=fc7f13d0626ec1981a4d2430b6089528"
+			"https://api.openweathermap.org/data/2.5/weather?q=Moscow&lang=ru&units=metric&appid=e3d189f7db1b726b9ed6964cbef557c3"
 		)
 			.then((res) => res.json())
 			.then(({ main, name, weather }) => {
