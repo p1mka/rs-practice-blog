@@ -5,7 +5,7 @@
       "login": "Kirill",
       "password": "qwerty123",
       "registered_at": "2023-08-13",
-      "role_id": 0
+      "role_id": 1
     },
     {
       "login": "ivan",
@@ -20,6 +20,27 @@
       "registered_at": "2037-06-26 10:12",
       "role_id": 1,
       "id": "0oynvkE"
+    },
+    {
+      "login": "petr",
+      "password": "123456",
+      "registered_at": "2064-08-28 21:22",
+      "role_id": 2,
+      "id": "uG3sxnx"
+    },
+    {
+      "login": "pavel",
+      "password": "123456",
+      "registered_at": "2049-10-17 06:22",
+      "role_id": 2,
+      "id": "J498Ijh"
+    },
+    {
+      "login": "admin",
+      "password": "admin1",
+      "registered_at": "2036-11-04 21:06",
+      "role_id": 0,
+      "id": "o3GE198"
     }
   ],
   "roles": [
@@ -201,22 +222,29 @@
       "id": 6
     },
     {
-      "author_id": "001",
+      "author_id": "o3GE198",
       "post_id": "002",
-      "published_at": "2041-11-19 07:04",
-      "content": "Первый коммнетарий 4",
-      "id": 7
+      "published_at": "2034-05-13 15:34",
+      "content": "Комментарий от админа",
+      "id": 8
+    },
+    {
+      "author_id": "o3GE198",
+      "post_id": "002",
+      "published_at": "2034-05-13 08:42",
+      "content": "Новый комментарий",
+      "id": 9
     }
   ],
   "sessions": [
     {
-      "hash": "0.34450280287385592892235308681847527623176574707031",
+      "hash": "0.31807125479638864717912838386837393045425415039063",
       "user": {
-        "id": "001",
-        "login": "Kirill",
-        "password": "qwerty123",
-        "registeredAt": "2023-08-13",
-        "roleId": 0
+        "id": "0oynvkE",
+        "login": "p1mka",
+        "password": "Maznov0712",
+        "registeredAt": "2037-06-26 10:12",
+        "roleId": 1
       },
       "id": 1
     }

@@ -8,6 +8,7 @@ const PostContentContainer = ({
 	post: { id, title, imageUrl, content, publishedAt },
 }) => {
 	const navigate = useNavigate();
+
 	return (
 		<div className={className}>
 			<img src={imageUrl} alt={title} />
