@@ -7,6 +7,7 @@ import { savePostAsync } from "../../../../actions";
 import { useNavigate } from "react-router-dom";
 import styled from "styled-components";
 import { useServerRequest } from "../../../../hooks";
+import { PROP_TYPE } from "../../../../constants";
 
 const PostFormContainer = ({
 	className,
@@ -94,3 +95,7 @@ export const PostForm = styled(PostFormContainer)`
 		border: 1px solid black;
 	}
 `;
+
+PostForm.propTypes = {
+	post: PROP_TYPE.POST.isRequired,
+};
