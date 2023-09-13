@@ -13,7 +13,6 @@ export const removePost = async (hash, id) => {
 			res: null,
 		};
 	}
-	console.log(id);
 
 	await deletePost(id);
 	const comments = await getComments(id);
